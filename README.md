@@ -1,0 +1,1 @@
+How to use this project: Click to interact with the UI
